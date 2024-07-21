@@ -1,10 +1,11 @@
 {
   "name": "Hono",
   "scripts": {
-    "dev": "bun run --hot src/index.ts"
+    "dev": "bun run --hot src/learn.js"
   },
   "dependencies": {
-    "hono": "^4.5.0"
+    "hono": "^4.5.0",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
     "@types/bun": "latest"
