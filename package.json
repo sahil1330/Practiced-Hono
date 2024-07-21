@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "hono": "^4.5.0",
+    "mongoose": "^8.5.1",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
